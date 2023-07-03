@@ -29,7 +29,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Self-Taught Programmer. Larning everyday new things.
 
-- :zap: In my free time, I watch youtube videos about web devekopment and read tech articles.
+- :zap: In my free time, I watch youtube videos about web development and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/karthik-m007)
 
