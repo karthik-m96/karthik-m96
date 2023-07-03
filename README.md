@@ -35,7 +35,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :computer: Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,sass,js,react,nextjs,nodejs,git,github,mysql,mongodb&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,sass,js,react,nextjs,nodejs,git,github,mysql,mongodb&theme=dark)
 <br />
 
 ---
