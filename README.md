@@ -11,8 +11,9 @@
   <img src="https://komarev.com/ghpvc/?username=karthik-m96&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  hey there
+  Hi, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  This is Karthik
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
@@ -35,13 +36,22 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :computer: Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,sass,js,react,nextjs,nodejs,git,github,mysql,mongodb&theme=dark)
-<br />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,sass,js,react,nextjs,nodejs,git,github,mysql,mongodb&theme=dark" alt="languages-known" />
+</div>
 
 ---
 
 ### :bar_chart: Github Stats:
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=karthik-m96&theme=buefy&show_icons=true" alt="karthik's github stats" />
+</div>
 
+---
 
+### :computer: Github Streak:
+<div align="center">
+<img src=https://streak-stats.demolab.com/?user=karthik-m96" alt="git-streak" align="center"/>
+</div>
+
+---
