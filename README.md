@@ -44,14 +44,18 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ### :bar_chart: Github Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=karthik-m96&theme=buefy&show_icons=true" alt="karthik's github stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik-m96&theme=solarized" alt="git-streak" align="center"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthik-m96&theme=solarized" alt="git-streak" align="center"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthik-m96&theme=solarized" alt="git-streak" align="center"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthik-m96&theme=solarized" alt="git-streak" align="center"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthik-m96&theme=solarized" alt="git-streak" align="center"/>
 </div>
 
 ---
 
 ### :computer: Github Streak:
 <div align="center">
-<img src=https://streak-stats.demolab.com/?user=karthik-m96" alt="git-streak" align="center"/>
+<img src="https://streak-stats.demolab.com/?user=karthik-m96&theme=blood" alt="git-streak" align="center"/>
 </div>
 
 ---
