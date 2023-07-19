@@ -43,13 +43,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### :bar_chart: Github Stats:
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik-m96&theme=calm" alt="git-streak" align="center"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthik-m96&theme=calm" alt="git-streak" align="center"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karthik-m96&theme=calm" alt="git-streak" align="center"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karthik-m96&theme=calm" alt="git-streak" align="center"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthik-m96&theme=calm" alt="git-streak" align="center"/>
-</div>
 
 ---
 
